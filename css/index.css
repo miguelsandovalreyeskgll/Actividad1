@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+    color: #222222;
+    margin: 30px;
+}
+
+h1 {
+    color: #333333;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 7px;
+}
+
+a {
+    color: #245ea8;
+}
+
+a:hover {
+    color: #555555;
+}
