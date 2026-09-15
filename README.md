@@ -75,6 +75,6 @@ El proyecto también puede publicarse mediante **GitHub Pages**, utilizando ruta
 
 ## Autor
 
-**Ángel Jahir Gómez Roblero**  
+**Sandoval Reyes Miguel**  
 Ingeniería en Sistemas Computacionales  
 Instituto Tecnológico de Oaxaca
