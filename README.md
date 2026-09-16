@@ -1,33 +1,43 @@
 # Actividad 1 - Programación Web
 
-Repositorio correspondiente a la **Actividad 1 de Programación Web**, donde se integran los ejercicios realizados en clase utilizando HTML, CSS y JavaScript.
+Repositorio correspondiente a la Actividad 1 de la materia de Programación Web.
 
-## Objetivo
+## Descripción
 
-Reunir en un solo proyecto los ejercicios prácticos desarrollados durante la actividad, aplicando los temas básicos de desarrollo web vistos en clase.
+En esta actividad se desarrollaron los ejercicios del 1 al 16 utilizando HTML, CSS y JavaScript.
 
-## Ejercicios incluidos
+Los primeros ejercicios permiten practicar la estructura básica de HTML, etiquetas de texto, enlaces, imágenes, listas, tablas y formularios.
 
-Actualmente el proyecto contiene los ejercicios del **1 al 10**:
+Posteriormente se incorporan ejercicios con JavaScript para realizar operaciones, validaciones, conversiones, manejo de arreglos, objetos y funciones.
 
-1. Hola Mundo en HTML
-2. Párrafos y formato básico
-3. Enlaces simples
-4. Imágenes básicas
-5. Combinación de texto, imágenes y enlaces
-6. Secciones semánticas
-7. Listas anidadas
-8. Horario de clases con tablas y CSS
-9. Formulario de contacto
-10. Conversor de grados Celsius a Fahrenheit con JavaScript
+## Ejercicios
+
+1. Mi primera página HTML.
+2. Formato de texto.
+3. Enlaces.
+4. Imágenes.
+5. Página personal.
+6. Estructura de una página.
+7. Listas.
+8. Tabla de horario.
+9. Formulario de contacto.
+10. Conversor de Celsius a Fahrenheit.
+11. Conversor de kilómetros a millas.
+12. Conversor de pesos mexicanos a dólares.
+13. Verificación de edad para votar.
+14. Operaciones con arreglos.
+15. Calificaciones de estudiantes utilizando objetos.
+16. Calculadora con funciones flecha.
 
 ## Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
-- XAMPP
 - Visual Studio Code
+- XAMPP
+- GitHub
+- GitHub Pages
 
 ## Estructura del proyecto
 
@@ -45,16 +55,37 @@ Actividad1/
 ├── ejercicio8.html
 ├── ejercicio9.html
 ├── ejercicio10.html
+├── ejercicio11.html
+├── ejercicio12.html
+├── ejercicio13.html
+├── ejercicio14.html
+├── ejercicio15.html
+├── ejercicio16.html
 │
 ├── css/
-│   └── archivos CSS
+│   ├── ejercicio8.css
+│   ├── ejercicio9.css
+│   ├── ejercicio10.css
+│   ├── ejercicio11.css
+│   ├── ejercicio12.css
+│   ├── ejercicio13.css
+│   ├── ejercicio14.css
+│   ├── ejercicio15.css
+│   ├── ejercicio16.css
+│   └── index.css
 │
 ├── js/
-│   └── archivos JavaScript
+│   ├── ejercicio10.js
+│   ├── ejercicio11.js
+│   ├── ejercicio12.js
+│   ├── ejercicio13.js
+│   ├── ejercicio14.js
+│   ├── ejercicio15.js
+│   └── ejercicio16.js
 │
 └── img/
-    └── imágenes utilizadas en los ejercicios
-```
+    ├── paisaje.jpg
+    └── viaje.jpg
 
 ## Ejecución en XAMPP
 
